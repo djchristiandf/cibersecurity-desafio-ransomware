@@ -3,6 +3,14 @@ Atividade final curso formação Cybersecurity da DIO , usando ransomware com py
 
 ## para dar certo o projeto precisa ter a lib do pyaes , que precisa ser instalada: pip install pyaes
 ![imagem de como resolver o pyaes](./pyaes_error.PNG "Install pyaes") \
------------------------------------------------------------------------ \
+----------------------------------------------------------------------- 
 
 ![imagem arquivo criptografado](./criptografado.PNG "Criptografia")
+
+-----------------------------------------------------------------------
+
+![imagem arquivo criptografado](./criptografado2.PNG "Criptografia parte 2")
+
+-----------------------------------------------------------------------
+
+![imagem arquivo criptografado](./criptografado3.PNG "Criptografia parte 3")
